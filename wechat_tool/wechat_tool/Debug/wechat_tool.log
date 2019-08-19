@@ -1,0 +1,3 @@
+﻿  wechat_tool.cpp
+C:\Users\EDZ\source\repos\wechat_tool\wechat_tool\wechat_tool.cpp(132): warning C4715:  “ProcessNameFindPid”: 不是所有的控件路径都返回值
+  wechat_tool.vcxproj -> C:\Users\EDZ\source\repos\wechat_tool\Debug\wechat_tool.exe
