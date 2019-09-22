@@ -39,6 +39,6 @@ def save(s):
         sql_str = 'insert into demo (text) values ("%s")' % (s)
         cursor.execute(sql_str)
     print(sql_str)
-    cursor.execute(sql_str)
+    conn.commit()
     cursor.close()
     conn.close()
